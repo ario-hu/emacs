@@ -1,2 +1,2 @@
-hello spacemaces!
+hello spacemacs!
 
